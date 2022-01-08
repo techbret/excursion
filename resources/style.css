@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+    font-size: 21px;
+}
+
+a[href] {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.video-size {
+    height: 250px;
+}
+
+.right {
+    text-align: right;
+    color: white;
+    opacity: 0.50;
+}
